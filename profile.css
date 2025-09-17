@@ -1,0 +1,46 @@
+/* body styling */
+body {
+font-family: Arial, sans-serif;
+margin: 10;
+padding: 0;
+background-color: cornflowerblue;
+color: black;
+}
+
+/* Header and navigation */
+header {
+background-color: black;
+color: white;
+padding: 15px 0;
+text-align: center;
+}
+
+header h1 {
+margin: 10px 0;
+color: green;
+}
+
+header p {
+font-style: italic;
+margin: 5px 0;
+}
+
+/* Form styling */
+form label {
+font-weight: bold;
+}
+
+form input,
+form textarea {
+width: 100%;
+padding: 8px;
+margin-top: 5px;
+border: 1px solid gray;
+border-radius: 4px;
+}
+
+button {
+padding: 10px 15px;
+background-color: navy;
+color: white;
+}
